@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDG1Uk0HMY5e7Kyx_2iNjY4SsxNBCfao84</string>
+	<key>GCM_SENDER_ID</key>
+	<string>695410741005</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bibha.mausamapp</string>
+	<key>PROJECT_ID</key>
+	<string>mausam-bibha</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mausam-bibha.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:695410741005:ios:49796acd5b6dfe3e0daa44</string>
+</dict>
+</plist>
