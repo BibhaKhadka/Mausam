@@ -1,4 +1,4 @@
-package com.example.mausam
+package com.bibha.mausamapp
 
 import io.flutter.embedding.android.FlutterActivity
 

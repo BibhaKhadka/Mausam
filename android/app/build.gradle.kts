@@ -7,8 +7,8 @@ plugins {
 
 android {
     namespace = "com.bibha.mausamapp"
-    compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    compileSdk = 34
+    ndkVersion = "26.1.10909125" // Optional: match your Flutter installation
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
@@ -21,17 +21,21 @@ android {
 
     defaultConfig {
         applicationId = "com.bibha.mausamapp"
-        minSdk = flutter.minSdkVersion
-        targetSdk = flutter.targetSdkVersion
-        versionCode = flutter.versionCode
-        versionName = flutter.versionName
+        minSdk = 21
+        targetSdk = 34
+        versionCode = 1
+        versionName = "1.0"
     }
 
     buildTypes {
-        getByName("release") {
-            signingConfig = signingConfigs.getByName("debug")
-        }
-    }
+     getByName("release") {
+        isMinifyEnabled = true
+        // REMOVE or COMMENT this if it exists:
+        // isShrinkResources = true
+        signingConfig = signingConfigs.getByName("debug")
+     }
+    } 
+
 }
 
 flutter {
