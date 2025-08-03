@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "695410741005",
-    "project_id": "mausam-bibha",
-    "storage_bucket": "mausam-bibha.firebasestorage.app"
+    "project_id": "weather_app-bibha",
+    "storage_bucket": "weather_app-bibha.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:695410741005:android:78c8901fc0a095a00daa44",
         "android_client_info": {
-          "package_name": "com.bibha.mausamapp"
+          "package_name": "com.bibha.weather_appapp"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "695410741005-45hoeaonig7qq5ertmpek4fi20krslsg.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.bibha.mausamapp",
+            "package_name": "com.bibha.weather_appapp",
             "certificate_hash": "aef046225909660b75ec482c9420a86e29586b8b"
           }
         },
@@ -42,7 +42,7 @@
               "client_id": "695410741005-5n6j9kqgs35fvgcqtiqj1qigev5j2k15.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.mausam"
+                "bundle_id": "com.example.weather_app"
               }
             }
           ]
@@ -53,7 +53,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:695410741005:android:7cd65d6c397782990daa44",
         "android_client_info": {
-          "package_name": "com.example.mausam"
+          "package_name": "com.example.weather_app"
         }
       },
       "oauth_client": [
@@ -78,7 +78,7 @@
               "client_id": "695410741005-5n6j9kqgs35fvgcqtiqj1qigev5j2k15.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.mausam"
+                "bundle_id": "com.example.weather_app"
               }
             }
           ]

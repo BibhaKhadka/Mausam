@@ -1,4 +1,4 @@
-package com.bibha.mausamapp
+package com.bibha.weather_appapp
 
 import io.flutter.embedding.android.FlutterActivity
 

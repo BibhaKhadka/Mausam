@@ -44,43 +44,43 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyBFF61UezzLZKirJMIVbRoVDtCdu_wOfK4',
     appId: '1:695410741005:web:0387c26a0ac598cf0daa44',
     messagingSenderId: '695410741005',
-    projectId: 'mausam-bibha',
-    authDomain: 'mausam-bibha.firebaseapp.com',
-    storageBucket: 'mausam-bibha.firebasestorage.app',
+    projectId: 'weather_app-bibha',
+    authDomain: 'weather_app-bibha.firebaseapp.com',
+    storageBucket: 'weather_app-bibha.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyBrNmM7OZIQ-DoGZSf18E4V-IiX02BkQTQ',
     appId: '1:695410741005:android:7cd65d6c397782990daa44',
     messagingSenderId: '695410741005',
-    projectId: 'mausam-bibha',
-    storageBucket: 'mausam-bibha.firebasestorage.app',
+    projectId: 'weather_app-bibha',
+    storageBucket: 'weather_app-bibha.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDG1Uk0HMY5e7Kyx_2iNjY4SsxNBCfao84',
     appId: '1:695410741005:ios:aee36261854c5e0c0daa44',
     messagingSenderId: '695410741005',
-    projectId: 'mausam-bibha',
-    storageBucket: 'mausam-bibha.firebasestorage.app',
-    iosBundleId: 'com.example.mausam',
+    projectId: 'weather_app-bibha',
+    storageBucket: 'weather_app-bibha.firebasestorage.app',
+    iosBundleId: 'com.example.weather_app',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyDG1Uk0HMY5e7Kyx_2iNjY4SsxNBCfao84',
     appId: '1:695410741005:ios:aee36261854c5e0c0daa44',
     messagingSenderId: '695410741005',
-    projectId: 'mausam-bibha',
-    storageBucket: 'mausam-bibha.firebasestorage.app',
-    iosBundleId: 'com.example.mausam',
+    projectId: 'weather_app-bibha',
+    storageBucket: 'weather_app-bibha.firebasestorage.app',
+    iosBundleId: 'com.example.weather_app',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyBFF61UezzLZKirJMIVbRoVDtCdu_wOfK4',
     appId: '1:695410741005:web:b85c13c31a19c2f60daa44',
     messagingSenderId: '695410741005',
-    projectId: 'mausam-bibha',
-    authDomain: 'mausam-bibha.firebaseapp.com',
-    storageBucket: 'mausam-bibha.firebasestorage.app',
+    projectId: 'weather_app-bibha',
+    authDomain: 'weather_app-bibha.firebaseapp.com',
+    storageBucket: 'weather_app-bibha.firebasestorage.app',
   );
 }

@@ -6,9 +6,9 @@ plugins {
 }
 
 android {
-    namespace = "com.bibha.mausamapp"
-    compileSdk = 34
-    ndkVersion = "26.1.10909125" // Optional: match your Flutter installation
+    namespace = "com.bibha.weather_appapp"
+    compileSdk = 35
+    ndkVersion = "27.0.12077973" // Optional: match your Flutter installation
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
@@ -20,7 +20,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.bibha.mausamapp"
+        applicationId = "com.bibha.weather_appapp"
         minSdk = 21
         targetSdk = 34
         versionCode = 1
